@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# training outputs (large / regenerated)
+runs/
+logs/
+models/
+videos/
+
+# results we do want to keep live in results/ and media/
